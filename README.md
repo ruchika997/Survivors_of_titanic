@@ -8,7 +8,6 @@ The dataset used in this project is included as
 * training set (train.csv)
 * test set (test.csv)
 This dataset is provided by Kaggle and contains the following attributes:
-
 * `survival` : Survival (0 = No; 1 = Yes)
 * `pclass` : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
 * `name` : Name
